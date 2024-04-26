@@ -73,3 +73,4 @@ python manage.py runserver
 <img width="960" alt="2021-05-18 (9)" src="https://user-images.githubusercontent.com/76456498/119213806-99753200-badf-11eb-9625-badf05e4413f.png">
 
 
+# jobportal
